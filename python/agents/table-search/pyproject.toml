@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "data-science"
+name = "table-search"
 version = "0.1"
-description = "Data Science and Data QnA Multi-Agent"
-authors = ["Meltem Subasioglu <msubasioglu@google.com>"]
+description = "BigQuery Table Search Agent"
+authors = []
 license = "Apache License 2.0"
 readme = "README.md"
 package-mode = true
